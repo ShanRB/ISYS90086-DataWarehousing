@@ -1,0 +1,7 @@
+SaleID,Cust_Key,Date,Sales Agent,Error
+143.0,2.0,29/02/2017,M1,Invalid Date
+144.0,3.0,29/02/2017,B1,Invalid Date
+145.0,7.0,29/02/2017,B2,Invalid Date
+146.0,10.0,29/02/2017,S1,Invalid Date
+147.0,15.0,29/02/2017,D1,Invalid Date
+148.0,17.0,29/02/2017,B2,Invalid Date
